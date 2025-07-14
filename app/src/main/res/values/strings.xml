@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Vox Cargo</string>
+    <string name="start_listening">Start Listening</string>
+    <string name="input">Keyboard</string>
+    <string name="history">History</string>
+    <string name="instruction_click_mic">Please click the mic icon below and input shipment details</string>
+    <string name="stop_listening">Stop Listening</string>
+    <string name="recognized_text_will_appear_here">Recognized text will appear here...</string>
+    <string name="speak_now">Speak now...</string>
+    <string name="listening">Status: Listening...</string>
+    <string name="processing">Status: Processing...</string>
+    <string name="idle">Status: Idle</string>
+    <string name="error">Status: Error</string>
+    <string name="permission_denied">Audio permission denied. Please grant permission in settings.</string>
+    <string name="speech_not_available">Speech recognition is not available on this device.</string>
+    <string name="recognized_result">Result:</string>
+    <string name="hello">Hello!</string> <!-- Example from search result [1] -->
+    <string name="no_speech_detected">No speech was detected. Please try again.</string>
+    <string name="try_again">Tap the button to try again.</string>
+    <string name="no_results_bundle">Sorry, results are currently unavailable.</string>
+    <string name="error_occurred">An unexpected error occurred.</string>
+
+</resources>
