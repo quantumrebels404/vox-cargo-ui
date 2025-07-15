@@ -19,5 +19,8 @@
     <string name="try_again">Tap the button to try again.</string>
     <string name="no_results_bundle">Sorry, results are currently unavailable.</string>
     <string name="error_occurred">An unexpected error occurred.</string>
-
+    <string name="label_voice">Voice</string>
+    <string name="label_keyboard">Keyboard</string>
+    <string name="label_history">History</string>
+    <string name="recognized_text_placeholder">Recognized text will appear here...</string>
 </resources>

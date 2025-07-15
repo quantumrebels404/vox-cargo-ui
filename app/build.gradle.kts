@@ -50,11 +50,13 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.androidx.appcompat)
-    implementation("androidx.appcompat:appcompat:1.6.1") // Or your current version
-    implementation("com.google.android.material:material:1.10.0") // Or the latest stable version
-    implementation("androidx.core:core-ktx:1.10.1") // You already have this
-    implementation("androidx.appcompat:appcompat:1.7.1") // You already have this
+    implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("com.google.android.material:material:1.10.0")
+    implementation("androidx.core:core-ktx:1.10.1")
+    implementation("androidx.appcompat:appcompat:1.7.1")
     implementation("androidx.constraintlayout:constraintlayout:2.2.1")
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3") 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
